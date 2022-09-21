@@ -362,3 +362,15 @@ footer
 .footer-copyright a:hover{
   text-decoration: none;
 }
+
+/*+++++++++++++++++++++++++++++++++++++++++
+backto top icon
+++++++++++++++++++++++++++++++++++++++++++ */
+
+.back-to-top{
+  bottom: 0;
+  position: fixed;
+  right: 0;
+  padding: 30px;
+
+}
